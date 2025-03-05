@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Casiana Cozma  
 
-# Computer Science student
+### Computer Science student
 
 <!--
 **Casianaaa/Casianaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
