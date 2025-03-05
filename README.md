@@ -1,20 +1,21 @@
 ## Hi there 👋 My name is Casiana Cozma  
 
 ### Computer Science student
+
+## 📊 Statistici GitHub
    <p align="center">
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+     <img src="https://github-readme-stats.vercel.app/api?username=CoolDev123&show_icons=true&theme=radical" alt="GitHub Stats" />
    </p>
-<!--
-**Casianaaa/Casianaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+   ## 🛠️ Tehnologii & Tool-uri
+   <p>
+     <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" />
+     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" />
+     <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue" />
+   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## 📫 Contactează-mă!
+   - 📧 Email: [email@example.com](mailto:email@example.com)
+   - 🐦 Twitter: [@CoolDev123](https://twitter.com/CoolDev123)
+   - 💼 LinkedIn: [CoolDev123](https://linkedin.com/in/CoolDev123)
+
