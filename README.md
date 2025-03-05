@@ -1,7 +1,9 @@
 ## Hi there 👋 My name is Casiana Cozma  
 
 ### Computer Science student
-
+   <p align="center">
+     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+   </p>
 <!--
 **Casianaaa/Casianaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
