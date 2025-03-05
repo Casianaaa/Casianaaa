@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Casiana Cozma  
 
 ## **Computer Science student**
-***
+
 Driven by ambition and curiousity 
 
 - 🌍 I'm based in Cluj-Napoca, Cluj, Romania
